@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "testLib"
-  spec.version      = "0.0.2"
+  spec.name         = "testLib9"
+  spec.version      = "0.0.3"
   spec.summary      = "testLib."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  testLib的详细描述文件
+  testLib9的详细描述文件
                    DESC
 
   spec.homepage     = "https://github.com/StartEnd/testLib"
