@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "testLib"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "testLib."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   testLib的详细描述文件
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/testLib"
+  spec.homepage     = "https://github.com/StartEnd/testLib"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
