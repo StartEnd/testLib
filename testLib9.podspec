@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "testLib9"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "testLib."
 
   # This description is used to generate tags and improve search results.
@@ -64,7 +64,7 @@ Pod::Spec.new do |spec|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # spec.platform     = :ios
+   spec.platform     = :ios
   # spec.platform     = :ios, "5.0"
 
   #  When using multiple platforms
@@ -133,6 +133,6 @@ Pod::Spec.new do |spec|
   # spec.requires_arc = true
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  spec.dependency "UIKit"
+  # spec.dependency "UIKit"
 
 end
